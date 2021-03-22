@@ -1,0 +1,5 @@
+<mat-list>
+  <mat-list-item  *ngFor="let me of menus" routerLink="{{me.link}}"  routerLinkActive="active">
+    <mat-icon>{{me.icone}}</mat-icon> {{me.nome}}
+  </mat-list-item>
+</mat-list>

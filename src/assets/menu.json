@@ -1,0 +1,6 @@
+{
+    "menu":[
+        {"link":"/tables","nome":"tabelas","icone":"border_all"},
+        {"link":"/procedures","nome":"procedures","icone":"border_all"}
+    ]
+}
